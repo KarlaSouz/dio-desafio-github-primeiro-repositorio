@@ -1,0 +1,48 @@
+Link importante: https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view
+
+PRINCIPAIS CONCEITOS TRABALHADOS:
+
+Pensamento Computacional :    DECOMPOSIÇÃO
+                              RECONHECIMENTO DE PADRÕES
+                              ABSTRAÇÃO
+                              DESIGN DE ALGORITMOS 
+Raciocínio Lógico:  INDUÇÃO 
+                    DEDUÇÃO
+                    ABDUÇÃO
+*** DECOMPOSIÇÃO : Quebrar e determinar partes menores e gerenciáveis
+                   SEQUENCIAL
+                   PARALELO 
+*** RECONHECIMENTO DE PADRÕES: MODELO BASE
+                               ESTRUTURA INVARIANTE
+                               REPETIÇÃO 
+*** ABSTRAÇÃO 
+
+**** ALGORITMOS: Processo de resolução de problemas "step by step", utilizando instruções.
+                 VARIÁVEIS
+                 TIPOS DE DADOS 
+                                Numéricos
+                                Caracteres
+                                Lógicos
+**** LÓGICA DE PROGRAMAÇÃO: TÉCNICA LINEAR
+                            TÉCNICA ESTRUTURADA
+                            TÉCNICA MODULAR
+**** ESTRUTURAS CONDICIONAIS E OPERADORES: CONDICIONAL SIMPLES
+                                           CONDICIONAL COMPOSTA
+**** ESTRUTURAS DE REPETIÇÃO
+**** VETORES E MATRIZES
+**** FUNÇÕES: blocos de instruções que realizam tarefas específicas
+
+*** INSTRUÇÕES DE ENTRADA E DE SAÍDA: INSERÇÃO DE DADOS
+                                      SAÍDA PROGRAMADA/ SAIDA POR INTERRUPÇÃO
+**** LINGUAGENS DE PROGRAMAÇÃO: Método padronizado composto por um conjunto de regras sintáticas e semânticas de implementação de um código fonte 
+                                TRADUÇÃO
+                                INTERPRETAÇÃO
+**** ANÁLISES DE CÓDIGO: ANÁLISE LÉXICA
+                         ANÁLISE SEMÂNTICA
+                         ANÁLISE SINTÁTICA
+**** PARADIGMAS DE PROGRAMAÇÃO: Forma de resolução de problemas com diretrizes e limitações específicas de cada paradigma utilizando linguagem de programação.
+                                PARADIGMA ESTRUTURADO
+                                ORIENTAÇÃO À OBJETO
+
+
+   

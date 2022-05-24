@@ -1,0 +1,23 @@
+
+COMANDOS GIT PARA WINDOWS: - cd
+                           - dir 
+                           - mkdir 
+                           - del/rmdir
+                           - cls
+                           - tab
+                           - echo
+                           - del
+                           - mv ./
+                           - git add*
+                           - git commit * "descrição"
+                           - git status
+                           - git pull
+                           - git push origin main/master
+
+Git: sistema distribuído e seguro 
+     SHA1
+     BLOBS
+     TREES
+     COMMITS 
+WORKING DIRECTORY -> STAGING AREA -> LOCAL REPOSITORY -> REMOTE
+CONFLITO MERGE: Resolver o código manualmente
