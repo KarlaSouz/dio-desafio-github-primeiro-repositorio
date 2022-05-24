@@ -1,4 +1,4 @@
 # dio-desafio-github-primeiro-repositorio
 Desafio de projeto sobre Git/Github da DIO
 
-#### Sobre o projeto: Clique [aqui](https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c) 
+#### Sobre o desafio: Clique [aqui](https://web.dio.me/project/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c) 
